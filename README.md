@@ -1,2 +1,2 @@
-# Projects
-Different projects 
+# Mini Project
+Predicting Election Results Using Social Media Sentiment
